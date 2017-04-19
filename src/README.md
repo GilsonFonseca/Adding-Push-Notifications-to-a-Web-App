@@ -1,13 +1,12 @@
 # Push Notifications codelab
 
-Code for the Web Fundamentals [Push Notifications codelab](https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en).
 
-In this codelab, you'll learn how to add Push Notifications to web applications. This will enable you to re-engage users with breaking news and information about
-new content.
+
+In this codelab, is taught how to add Push Notifications to web applications, [here](https://codelabs.developers.google.com/codelabs/push-notifications/index.html?index=..%2F..%2Findex#0).] you can see how to do it.
 
 You'll also learn the basics of Service Workers.
 
-## What you'll learn
+## What this codelab teach us
 
 * Service Worker basics: installation and event handling
 * How to set up a Google Cloud Messaging (GCM) account
@@ -16,14 +15,7 @@ You'll also learn the basics of Service Workers.
 * Notification display
 * Notification click handling
 
-Example code for each step of the codelab is available from the [completed](completed/) directory.
+## What you'll need in order to make it work
+In order to run it properly you'll need to download the []https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb) app, because this codelab was designed to work well with it, but you're free to use your own web server.</br>
+After that you need to configurate it by selecting the app folder of the project in the  "choose folder" button, you'll need to check the box next to "Automatically show index.html" too, and lastly stop and restart the server by sliding the toggle labeled "Web Server: STARTED", now the web server is setted for you to work on the codelab.</br>
 
-## License
-
-Copyright 2015 Google, Inc.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to you under the Apache License, Version 2.0 (the “License”); you may not use this file except in compliance with the License. You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
