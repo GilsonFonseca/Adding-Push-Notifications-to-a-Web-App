@@ -16,6 +16,6 @@ You'll also learn the basics of Service Workers.
 * Notification click handling
 
 ## What you'll need in order to make it work
-In order to run it properly you'll need to download the []https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb) app, because this codelab was designed to work well with it, but you're free to use your own web server.</br>
+In order to run it properly you'll need to download the [Web Server for Chrome app](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb), because this codelab was designed to work well with it, but you're free to use your own web server.</br>
 After that you need to configurate it by selecting the app folder of the project in the  "choose folder" button, you'll need to check the box next to "Automatically show index.html" too, and lastly stop and restart the server by sliding the toggle labeled "Web Server: STARTED", now the web server is setted for you to work on the codelab.</br>
 
