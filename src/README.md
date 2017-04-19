@@ -2,7 +2,7 @@
 
 
 
-In this codelab, is taught how to add Push Notifications to web applications, [here](https://codelabs.developers.google.com/codelabs/push-notifications/index.html?index=..%2F..%2Findex#0).] you can see how to do it.
+In this codelab, is taught how to add Push Notifications to web applications, [here](https://codelabs.developers.google.com/codelabs/push-notifications/index.html?index=..%2F..%2Findex#0). you can see how to do it.
 
 You'll also learn the basics of Service Workers.
 
